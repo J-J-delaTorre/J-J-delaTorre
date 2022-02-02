@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jdelatorrepalermo
+- 👋 Hi, I’m @J-J-delaTorre
 - 👀 I’m interested in computer hardware engineering and how software communicates with hardware.
 - 🌱 I’m currently learning Computer Engineering. 
 
